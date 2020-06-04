@@ -6,7 +6,7 @@
 
 1. Clone the repository in your local folder.
 ```
-git clone https://github.com/Juakata/Streaming-App-Client.git
+git clone https://github.com/Juakata/Streaming-App-API.git
 ```
 2. Run
 ```
